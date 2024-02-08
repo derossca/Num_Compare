@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5390e63b-48ef-4bd0-ac14-68c1e16326d3" name="Changes" comment="removed if structure to restart and debug">
+    <list default="true" id="5390e63b-48ef-4bd0-ac14-68c1e16326d3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707404404693</updated>
       <workItem from="1707404405796" duration="15000" />
-      <workItem from="1707404585642" duration="3254000" />
+      <workItem from="1707404585642" duration="3947000" />
     </task>
     <task id="LOCAL-00001" summary="removed if structure to restart and debug">
       <option name="closed" value="true" />
@@ -59,7 +59,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707406952912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="corrected if structure, nested if statements to compare two numbers, else indicates invalid response, debugged.">
+      <option name="closed" value="true" />
+      <created>1707408352515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707408352515</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed if structure to restart and debug" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed if structure to restart and debug" />
+    <MESSAGE value="corrected if structure, nested if statements to compare two numbers, else indicates invalid response, debugged." />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected if structure, nested if statements to compare two numbers, else indicates invalid response, debugged." />
   </component>
 </project>
