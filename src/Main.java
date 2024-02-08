@@ -10,7 +10,7 @@ public class Main {
         //		num numberTwo
         //      String trash
         //		output “Enter the first number”
-        //
+        //      
         //	return
         //end class
 
