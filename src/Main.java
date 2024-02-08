@@ -4,13 +4,28 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args)
     {
+        //pseudo code
         //class
         //	main()
         //		num numberOne
         //		num numberTwo
         //      String trash
         //		output “Enter the first number”
-        //      
+        //      if input nextDouble then
+        //		    input numberOne
+        //		    output “Enter the second number”
+        //		    input numberTwo
+        //		    if numberOne == numberTwo then
+        //			    output numberOne + “ is equal to “ + numberTwo
+        //		    else  if numberOne > numberTwo then
+        //			    output numberTwo + “ is less than “ + numberOne
+        //		    else numberOne < numberTwo
+        //			    output numberOne + “ is less than “ + numberTwo
+        //		    end if
+        //      else
+        //          trash = input
+        //          output "You said the number is " + trash
+        //          output "Please run the program again and enter a valid number!"
         //	return
         //end class
 

@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5390e63b-48ef-4bd0-ac14-68c1e16326d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5390e63b-48ef-4bd0-ac14-68c1e16326d3" name="Changes" comment="updated pseudo code">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707404404693</updated>
       <workItem from="1707404405796" duration="15000" />
-      <workItem from="1707404585642" duration="3947000" />
+      <workItem from="1707404585642" duration="4363000" />
     </task>
     <task id="LOCAL-00001" summary="removed if structure to restart and debug">
       <option name="closed" value="true" />
@@ -67,7 +66,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707408352515</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated pseudo code">
+      <option name="closed" value="true" />
+      <created>1707408730469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707408730469</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated pseudo code">
+      <option name="closed" value="true" />
+      <created>1707408741981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707408741981</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed if structure to restart and debug" />
     <MESSAGE value="corrected if structure, nested if statements to compare two numbers, else indicates invalid response, debugged." />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected if structure, nested if statements to compare two numbers, else indicates invalid response, debugged." />
+    <MESSAGE value="updated pseudo code" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated pseudo code" />
   </component>
 </project>
